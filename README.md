@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arterm-sedov
 - 👀 I’m interested in localization, engineering, and creative coding
-- 💞️ I’m looking to collaborate on localization projects 
 - 📫 I also work in video game localization industry
 
 <!---
