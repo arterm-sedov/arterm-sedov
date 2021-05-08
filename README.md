@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arterm-sedov
 - 👀 I’m interested in localization, engineering, and creative coding
-- 📫 I also work in video game localization industry
+- 📫 I also work in video game and software localization industry
 
 <!---
 arterm-sedov/arterm-sedov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
