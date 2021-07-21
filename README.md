@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arterm-sedov
-- A UX writer at [Comindware](https://github.com/comindware)
-- A veteran in the video game and software localization industry
+- ✍ A UX writer at [Comindware](https://github.com/comindware)
+- 🦸‍♂️ A veteran in the video game and software localization industry
 - 👀 Interested in localization, engineering, and creative coding
 
 <!---
