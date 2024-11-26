@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arterm-sedov
-- ✍ Localization engineer, UX & tech writer at [CMW Lab](https://cmwlab.com)
+- ✍ Localization & DocOps engineer, UX & tech writer at [CMW Lab](https://cmwlab.com)
 - 🦸‍♂️ Video game and software localization veteran
 - 👀 Interested in localization, engineering, and creative coding
 
