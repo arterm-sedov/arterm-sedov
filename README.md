@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arterm-sedov
-- ✍ Localization, AI & DocOps engineer, UX & tech writer at [CMW Lab](https://cmwlab.com)
+- ✍ AI, DocOps & localization engineer, UX & tech writer at [CMW Lab](https://cmwlab.com)
 - 🦸‍♂️ Video game and software localization veteran
-- 👀 Interested in localization, engineering, and creative coding
+- 👀 Interested in AI agents, RAG, localization, engineering, and creative coding
 
 <!---
 arterm-sedov/arterm-sedov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
